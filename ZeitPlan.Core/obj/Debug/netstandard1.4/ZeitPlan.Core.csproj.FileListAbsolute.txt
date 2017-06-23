@@ -1,0 +1,7 @@
+c:\dev\ZeitPlan\ZeitPlan.Core\bin\Debug\netstandard1.4\ZeitPlan.Core.deps.json
+c:\dev\ZeitPlan\ZeitPlan.Core\obj\Debug\netstandard1.4\ZeitPlan.Core.csprojResolveAssemblyReference.cache
+c:\dev\ZeitPlan\ZeitPlan.Core\obj\Debug\netstandard1.4\ZeitPlan.Core.AssemblyInfo.cs
+c:\dev\ZeitPlan\ZeitPlan.Core\bin\Debug\netstandard1.4\ZeitPlan.Core.dll
+c:\dev\ZeitPlan\ZeitPlan.Core\bin\Debug\netstandard1.4\ZeitPlan.Core.pdb
+c:\dev\ZeitPlan\ZeitPlan.Core\obj\Debug\netstandard1.4\ZeitPlan.Core.dll
+c:\dev\ZeitPlan\ZeitPlan.Core\obj\Debug\netstandard1.4\ZeitPlan.Core.pdb

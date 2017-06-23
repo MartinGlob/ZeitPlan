@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "c:\\dev\\ZeitPlan\\ZeitPlanTest\\ZeitPlanTest.csproj",
+    "projectName": "ZeitPlanTest",
+    "projectPath": "c:\\dev\\ZeitPlan\\ZeitPlanTest\\ZeitPlanTest.csproj",
+    "outputPath": "c:\\dev\\ZeitPlan\\ZeitPlanTest\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {
+          "c:\\dev\\ZeitPlan\\ZeitPlan.Core\\ZeitPlan.Core.csproj": {
+            "projectPath": "c:\\dev\\ZeitPlan\\ZeitPlan.Core\\ZeitPlan.Core.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.1"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "15.0.0"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "2.2.0"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "2.2.0"
+        }
+      }
+    }
+  }
+}

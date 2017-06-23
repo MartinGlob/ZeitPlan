@@ -1,0 +1,14 @@
+c:\dev\ZeitPlan\ZeitPlanTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\dev\ZeitPlan\ZeitPlanTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+c:\dev\ZeitPlan\ZeitPlanTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+c:\dev\ZeitPlan\ZeitPlanTest\bin\Debug\netcoreapp1.1\ZeitPlanTest.deps.json
+c:\dev\ZeitPlan\ZeitPlanTest\bin\Debug\netcoreapp1.1\ZeitPlanTest.runtimeconfig.json
+c:\dev\ZeitPlan\ZeitPlanTest\bin\Debug\netcoreapp1.1\ZeitPlanTest.runtimeconfig.dev.json
+c:\dev\ZeitPlan\ZeitPlanTest\bin\Debug\netcoreapp1.1\ZeitPlanTest.dll
+c:\dev\ZeitPlan\ZeitPlanTest\bin\Debug\netcoreapp1.1\ZeitPlanTest.pdb
+c:\dev\ZeitPlan\ZeitPlanTest\bin\Debug\netcoreapp1.1\ZeitPlan.Core.dll
+c:\dev\ZeitPlan\ZeitPlanTest\bin\Debug\netcoreapp1.1\ZeitPlan.Core.pdb
+c:\dev\ZeitPlan\ZeitPlanTest\obj\Debug\netcoreapp1.1\ZeitPlanTest.csprojResolveAssemblyReference.cache
+c:\dev\ZeitPlan\ZeitPlanTest\obj\Debug\netcoreapp1.1\ZeitPlanTest.AssemblyInfo.cs
+c:\dev\ZeitPlan\ZeitPlanTest\obj\Debug\netcoreapp1.1\ZeitPlanTest.dll
+c:\dev\ZeitPlan\ZeitPlanTest\obj\Debug\netcoreapp1.1\ZeitPlanTest.pdb

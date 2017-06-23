@@ -1,0 +1,9 @@
+c:\dev\ZeitPlan\ZeitPlan\bin\Debug\netcoreapp1.1\ZeitPlan.deps.json
+c:\dev\ZeitPlan\ZeitPlan\bin\Debug\netcoreapp1.1\ZeitPlan.runtimeconfig.json
+c:\dev\ZeitPlan\ZeitPlan\bin\Debug\netcoreapp1.1\ZeitPlan.runtimeconfig.dev.json
+c:\dev\ZeitPlan\ZeitPlan\bin\Debug\netcoreapp1.1\ZeitPlan.dll
+c:\dev\ZeitPlan\ZeitPlan\bin\Debug\netcoreapp1.1\ZeitPlan.pdb
+c:\dev\ZeitPlan\ZeitPlan\obj\Debug\netcoreapp1.1\ZeitPlan.csprojResolveAssemblyReference.cache
+c:\dev\ZeitPlan\ZeitPlan\obj\Debug\netcoreapp1.1\ZeitPlan.AssemblyInfo.cs
+c:\dev\ZeitPlan\ZeitPlan\obj\Debug\netcoreapp1.1\ZeitPlan.dll
+c:\dev\ZeitPlan\ZeitPlan\obj\Debug\netcoreapp1.1\ZeitPlan.pdb

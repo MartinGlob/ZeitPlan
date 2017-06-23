@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "c:\\dev\\ZeitPlan\\ZeitPlan.Core\\ZeitPlan.Core.csproj",
+    "projectName": "ZeitPlan.Core",
+    "projectPath": "c:\\dev\\ZeitPlan\\ZeitPlan.Core\\ZeitPlan.Core.csproj",
+    "outputPath": "c:\\dev\\ZeitPlan\\ZeitPlan.Core\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard1.4"
+    ],
+    "frameworks": {
+      "netstandard1.4": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard1.4": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "target": "Package",
+          "version": "1.6.1"
+        }
+      }
+    }
+  }
+}
